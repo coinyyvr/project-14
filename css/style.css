@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  background: #ffffff;
+  color: #222;
+  line-height: 1.5;
+}
+
+header {
+  padding: 32px;
+  border-bottom: 1px solid #ddd;
+}
+
+h1 {
+  margin: 0;
+  font-weight: 400;
+}
+
+main {
+  padding: 32px;
+  max-width: 900px;
+}
+
+h2 {
+  font-weight: 400;
+}
+
+footer {
+  padding: 16px 32px;
+  border-top: 1px solid #ddd;
+  font-size: 14px;
+  color: #666;
+}
