@@ -31,3 +31,25 @@ footer {
   font-size: 14px;
   color: #666;
 }
+.site-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 32px;
+  border-bottom: 1px solid #ddd;
+}
+
+.logo {
+  width: 64px;
+  height: 64px;
+}
+
+.header-text h1 {
+  margin: 0;
+  font-weight: 400;
+}
+
+.header-text p {
+  margin: 4px 0 0;
+  color: #555;
+}
