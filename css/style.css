@@ -15,19 +15,15 @@ body, h1, h2, h3, p, ul, li {
 
 /* ---------- Base ---------- */
 body {
-  font-family: "Segoe UI", Tahoma, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.4;
-  color: #000;
-  background-color: #ffffff;
+  background-color: #f0f0f0; /* classic Win7 page gray */
 }
 
-/* ---------- Layout ---------- */
 main {
-  max-width: 920px;
-  margin: 40px auto;
-  padding: 0 24px;
+  background-color: #ffffff;
+  border: 1px solid #cfcfcf;
+  box-shadow: 0 1px 0 #ffffff inset;
 }
+
 
 /* ---------- Header ---------- */
 header {
