@@ -73,3 +73,7 @@ footer {
   color: #000;
   font-weight: 500;
 }
+.site-nav {
+  display: block !important;
+  background: #fff;
+}
