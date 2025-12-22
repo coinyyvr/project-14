@@ -84,3 +84,16 @@ body {
   color: #000;
   background: #fff;
 }
+/* Reset browser junk */
+body, h1, h2, h3, p, ul {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  background: #fff;
+  line-height: 1.4;
+}
